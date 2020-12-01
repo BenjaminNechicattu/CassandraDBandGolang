@@ -6,7 +6,7 @@ This program inserts values to a table (table name 'emp') by cassandra database.
 in this program,
 `create table example.tweet(timeline text, id UUID, text text, PRIMARY KEY(id));`
 now run the program
-`main.py`
+`main.go`
 
 make sure 
 line ~16
