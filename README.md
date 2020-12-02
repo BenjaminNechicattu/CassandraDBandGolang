@@ -11,6 +11,3 @@ now run the program
 make sure 
 line ~16
 `cluster := gocql.NewCluster("127.0.0.1")` ip corresponds to your system local host
-
-Reference :
-  https://github.com/gocql/gocql
